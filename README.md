@@ -1,1 +1,2 @@
-# C-
+# C#
+mengenal bahasa C#
